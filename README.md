@@ -29,18 +29,20 @@ MySQL, Express.js, Node.js, dotenv, and Sequelize were used to build this applic
 Change the .env file to reflect your MySQL username and password
 
 In your terminal, from the project folder:
-*Run `npm i` to install dependencies
-*Run `mysql -u {username} -p` to enter the MySQL environment
-*Enter your password, if you have one
-*Run `source db/schema.sql` to create the database
-\*Type `quit` to exit MySQL
+
+- Run `npm i` to install dependencies.
+- Run `mysql -u {username} -p` to enter the MySQL environment.
+- Enter your password, if you have one.
+- Run `source db/schema.sql` to create the database.
+- Type `quit` to exit MySQL.
 
 ## Usage
 
 In your terminal:
-*Enter `npm run seed` to seed the database
-*Enter `npm start` or `node index.js` to the server connection
-\*Open and utilize Insomnia to view the various routes (GET, POST, PUT, and DELETE)
+
+- Enter `npm run seed` to seed the database.
+- Enter `npm start` or `node index.js` to the server connection.
+- Open and utilize Insomnia to view the various routes (GET, POST, PUT, and DELETE).
 
 ## Questions
 
