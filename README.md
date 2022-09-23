@@ -24,6 +24,8 @@ MySQL, Express.js, Node.js, dotenv, and Sequelize were used to build this applic
 
 ## Demo video
 
+https://drive.google.com/file/d/13fIik2ziBr9k9CAidRG60RykXBUV9Oxb/view
+
 ## Installation
 
 Change the .env file to reflect your MySQL username and password
